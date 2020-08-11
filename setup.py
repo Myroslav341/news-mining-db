@@ -7,7 +7,7 @@ setup(
     author='Myroslav Havryliuk',
     author_email='myroslav04@gmail.com',
     # Needed to actually package something
-    packages=['news-mining-db'],
+    packages=['news_mining_db'],
     # Needed for dependencies
     install_requires=[],
     # *strongly* suggested for sharing
