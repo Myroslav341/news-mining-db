@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
-    name='news-mining-db',
+    name='news_mining_db',
     url='https://github.com/Myroslav341/news-mining-db',
     author='Myroslav Havryliuk',
     author_email='myroslav04@gmail.com',
@@ -11,7 +11,7 @@ setup(
     # Needed for dependencies
     install_requires=[],
     # *strongly* suggested for sharing
-    version='0.1',
+    version='0.2',
     # The license can be anything you like
     license='MIT',
     description='Sheared db models for news-mining project',
