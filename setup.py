@@ -9,9 +9,9 @@ setup(
     # Needed to actually package something
     packages=['news_mining_db'],
     # Needed for dependencies
-    install_requires=[],
+    install_requires=['sqlalchemy', 'alembic', 'psycopg2'],
     # *strongly* suggested for sharing
-    version='0.2',
+    version='0.3',
     # The license can be anything you like
     license='MIT',
     description='Sheared db models for news-mining project',
