@@ -11,7 +11,7 @@ setup(
     # Needed for dependencies
     install_requires=['sqlalchemy', 'alembic', 'psycopg2'],
     # *strongly* suggested for sharing
-    version='0.3',
+    version='0.3.3',
     # The license can be anything you like
     license='MIT',
     description='Sheared db models for news-mining project',
