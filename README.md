@@ -7,5 +7,5 @@ Handling updating db models in different parts of a project.
 
 #### initialise environment:
 ```init-news-db  # create db_config.json file```
-####
+#### upgrade db from config file
 ```upgrade-db  # upgrade db from config file```
